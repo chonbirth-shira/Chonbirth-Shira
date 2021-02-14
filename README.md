@@ -5,6 +5,8 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
 
+![counter](https://[YourEndpoint].m.pipedream.net)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chonbirth-shira&repo=coursera)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chonbirth-shira&show_icons=true)
 <details>
   <summary>Some interesting facts about me!</summary>
