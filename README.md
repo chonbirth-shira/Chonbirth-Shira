@@ -1,3 +1,4 @@
+![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=chonbirth-shira)
 ### Hi there 👋 I'm Chonbirth D. Shira
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
@@ -5,7 +6,6 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
 
-![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=chonbirth-shira)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chonbirth-shira&repo=coursera)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chonbirth-shira&show_icons=true)
 <details>
