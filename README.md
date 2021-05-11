@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Chonbirth D. Shira
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chonbirth-shira&show_icons=true)
-
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
